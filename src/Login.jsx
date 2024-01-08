@@ -43,16 +43,10 @@ function Login() {
 												</div>
 
 												<div className="col-12">
-													<div className="form-check">
-														<input className="form-check-input" type="checkbox" name="remember" value="true" id="rememberMe" />
-														<label className="form-check-label" for="rememberMe">Remember me</label>
-													</div>
-												</div>
-												<div className="col-12">
 													<button className="btn btn-primary w-100" type="submit">Login</button>
 												</div>
 												<div className="col-12">
-													<p className="small mb-0">Don't have account? <a href="pages-register.html">Create an account</a></p>
+													<p className="small mb-0">Don't have account? <a href="/signup">Create an account</a></p>
 												</div>
 											</form>
 
