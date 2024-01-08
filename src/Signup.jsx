@@ -64,7 +64,7 @@ function Signup() {
 													<button className="btn btn-primary w-100" type="submit">Create Account</button>
 												</div>
 												<div className="col-12">
-													<p className="small mb-0">Already have an account? <a href="pages-login.html">Log in</a></p>
+													<p className="small mb-0">Already have an account? <a href="/login">Log in</a></p>
 												</div>
 											</form>
 
